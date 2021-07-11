@@ -163,5 +163,5 @@ jekyll-archives:
     category: category
     tag: tag
   permalinks:
-    tag: /tags/:name/b
+    tag: /tags/:name/
     category: /categories/:name/
