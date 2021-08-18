@@ -5,9 +5,3 @@ categories: [Blog, Investment]
 tags: [investment, money]     # TAG names should always be lowercase
 ---
 
-
-5.
-4.
-3.
-2.
-1. Woman
